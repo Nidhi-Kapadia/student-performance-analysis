@@ -78,7 +78,7 @@ The dataset contains student attributes like:
 
 Hi, I’m **Nidhi Kapadia**, a Predictive Analytics student at Conestoga College with a deep love for math, statistics, and real-world problem solving through data.
 
-📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/nidhikapadia/)  
+📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/nidhi-kapadia-144122365/)  
 🌐 Portfolio coming soon...
 
 ---
